@@ -14,3 +14,4 @@ const alumni = ['Ashley' , 'Peter' , 'Aurelie' , 'Seabas']
 
 const [ash, pet, aur,] = alumni
 console.log(aur, ash)
+

@@ -5,5 +5,5 @@ for (let alum of alumni) {
 }
 
 for(let i = 0; i < alumi.length; i++) {
- console.log(i, alumni[i])  
+    console.log(i, alumni[i])  
 }

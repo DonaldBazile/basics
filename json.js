@@ -8,10 +8,4 @@ let car = {
 
 console.log(car)
 
-const carjson = json.stringify(car) 
 
-console.log(carjson)
-
-const carParsed = json.parse(carjson)
-
-console.log(carParsed)
