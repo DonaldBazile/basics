@@ -1,9 +1,21 @@
-let staff = [{
-    firstName: 'Daniel',
-    subject: 'AI',
-    awesome: true
+let instructor = {
+    firstName: 'Todd',
+    lastName: 'Albert',
+    kids: [{
+      firstName: 'Sage',
+      age: 21,
+      gender: 'female',
     }, {
-    firstName: 'Zach',
-    subject: 'Typescript',
-    awesome: true
-    }]
+      firstName: 'Noah',
+      age: 18,
+      gender: 'male',
+    }, {
+      firstName: 'Henry',
+      age: 13,
+      gender: 'male',
+    }],
+    pets: {
+      dogs: ['Ryder'],
+      cats: null,
+    },
+  }
